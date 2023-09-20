@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T16:54:48.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="YuCzKBCVgJTuHEiXXhLM" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T18:37:21.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="vWNjOCPkiKgn60qfdzrM" version="21.7.5" type="github">
   <diagram name="Page-1" id="JPXdRtkyP0Un6k2yz63l">
     <mxGraphModel dx="1804" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,6 +169,16 @@
         </mxCell>
         <mxCell id="kuo3zjpLqct8l1bnm0oM-54" value="&lt;div&gt;endGame()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuo3zjpLqct8l1bnm0oM-60" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="kuo3zjpLqct8l1bnm0oM-1" parent="1" source="kuo3zjpLqct8l1bnm0oM-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="490" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="30" y="480" />
+              <mxPoint x="30" y="540" />
+            </Array>
+            <mxPoint x="20" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
