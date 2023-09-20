@@ -1,56 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T16:10:14.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="w1lUTMIS9fpEdq7VuzCh" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T18:33:04.318Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Koq49YUGd3Jkp9jaHRj_" version="21.7.5" type="github">
   <diagram name="Page-1" id="7HI9P-2HQaYLeCnRzT-y">
-    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1854" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-1" target="q1-szOMvnke4BaBS3-Xf-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="q1-szOMvnke4BaBS3-Xf-1" value="Player 1" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="120" height="110" as="geometry" />
+          <mxGeometry x="180" y="470" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-2" target="q1-szOMvnke4BaBS3-Xf-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-2" target="q1-szOMvnke4BaBS3-Xf-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-2" target="q1-szOMvnke4BaBS3-Xf-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-19" value="places bets &amp;amp; choose &lt;br&gt;&lt;div&gt;hot/stand option&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="q1-szOMvnke4BaBS3-Xf-1">
+          <mxGeometry x="-7.5" y="40" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q1-szOMvnke4BaBS3-Xf-2" value="Dealer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="50" width="120" height="110" as="geometry" />
+          <mxGeometry x="170" y="180" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-4" value="Chooses Option" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="480" width="145" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-5" value="&lt;div&gt;Player can either hit or&amp;nbsp;&lt;/div&gt;&lt;div&gt;stay based on&amp;nbsp;&lt;/div&gt;&lt;div&gt;the total value &lt;br&gt;&lt;/div&gt;of the card they have" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="q1-szOMvnke4BaBS3-Xf-4">
-          <mxGeometry x="-5" y="35" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-10" target="q1-szOMvnke4BaBS3-Xf-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-10" value="Player 1" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="280" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-20" value="places bets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="q1-szOMvnke4BaBS3-Xf-10">
-          <mxGeometry x="20" y="48" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-16" value="Dealer may choose to keep a value tracker for each player" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="65" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-18" target="q1-szOMvnke4BaBS3-Xf-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-18" value="&lt;div&gt;Deals cards to all&lt;/div&gt;&lt;div&gt;players&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="83" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q1-szOMvnke4BaBS3-Xf-19" value="places bets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="328" width="80" height="30" as="geometry" />
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-18" value="&lt;div&gt;Deals cards to all&lt;/div&gt;&lt;div&gt;players&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="q1-szOMvnke4BaBS3-Xf-2">
+          <mxGeometry x="12.5" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q1-szOMvnke4BaBS3-Xf-21" value="&lt;div&gt;Deck of cards&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="63" width="80" height="80" as="geometry" />
+          <mxGeometry x="-60" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-23" value="Game" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="320" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-24" value="&lt;div&gt;Manages session&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="q1-szOMvnke4BaBS3-Xf-23">
+          <mxGeometry x="20" y="55" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-26" value="Gets cards" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-21" target="q1-szOMvnke4BaBS3-Xf-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="170" as="sourcePoint" />
+            <mxPoint x="-20" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-27" value="&lt;div&gt;0..52&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="q1-szOMvnke4BaBS3-Xf-26">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-28" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="q1-szOMvnke4BaBS3-Xf-26">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-33" value="&lt;div&gt;0..2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-18">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="200" y="394.47" as="sourcePoint" />
+            <mxPoint x="60" y="394.47" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="320" />
+              <mxPoint x="110" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-39" value="&lt;div&gt;0..2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="243" y="460" as="sourcePoint" />
+            <mxPoint x="60" y="424.47" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="243" y="424" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
