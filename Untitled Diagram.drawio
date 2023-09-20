@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T15:48:48.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="CB4p7NOkhxmH25Jd9xFC" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T16:10:14.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="w1lUTMIS9fpEdq7VuzCh" version="21.7.5" type="github">
   <diagram name="Page-1" id="7HI9P-2HQaYLeCnRzT-y">
     <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,11 +40,17 @@
         <mxCell id="q1-szOMvnke4BaBS3-Xf-16" value="Dealer may choose to keep a value tracker for each player" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="65" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1-szOMvnke4BaBS3-Xf-18" target="q1-szOMvnke4BaBS3-Xf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q1-szOMvnke4BaBS3-Xf-18" value="&lt;div&gt;Deals cards to all&lt;/div&gt;&lt;div&gt;players&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="83" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q1-szOMvnke4BaBS3-Xf-19" value="places bets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="328" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1-szOMvnke4BaBS3-Xf-21" value="&lt;div&gt;Deck of cards&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="63" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
